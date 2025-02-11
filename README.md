@@ -78,7 +78,7 @@ cd Sanji_Agent.ipynb
 
 ### Training and Evaluating the Agent
 
-To train the agent, simply run the training cell within the notebook. This will start the training loop and log metrics.
+To train the agent, simply run all the cells within the notebook. This will start the training loop and log metrics.
 
 During training, metrics such as episode number, steps taken, loss, and epsilon (exploration rate) are printed. These provide insight into the agent’s learning process.
 
