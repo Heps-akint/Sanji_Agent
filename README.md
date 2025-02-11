@@ -69,7 +69,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/Heps-akint/Sanji_Agent.git
-cd Sanji_Agent
+cd Sanji_Agent.ipynb
 ```
 
 ---
